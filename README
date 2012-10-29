@@ -1,6 +1,7 @@
-ConfirmSystemCommandsVersion: 1.1 Release
-TimeWeatherControlVersion: 1.1 Release
-PlayerInformationVersion: 1.1 Release
-ModifyMessagesVersion: 1.1 Release
-SimplePMVersion: 1.0 Release
-HealMeVersion: 1.1 Release
+ConfirmSystemCommandsVersion: 1.2
+TimeWeatherControlVersion: 1.2
+PlayerInformationVersion: 1.2
+ModifyMessagesVersion: 1.2
+SimplePMVersion: 1.1
+HealMeVersion: 1.2
+SimpleKitVersion: 0.2 Alpha
