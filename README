@@ -1,4 +1,7 @@
-Plugins:
+Plugin Versions
+==========
+
+# Plugins:
 
 ConfirmSystemCommandsVersion: 1.3.5
 TimeWeatherControlVersion: 1.3.5
@@ -10,5 +13,8 @@ SimpleKitVersion: 0.6 Beta
 SimpleCalculatorVersion: 1.3.5
 ExplodingAnimalsVersion: 1.0
 
-Other:
-SMODVersion: 0.6 Beta
+# Mods:
+
+JaffaCakes: 0.0.1 Alpha
+
+==========
